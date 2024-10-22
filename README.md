@@ -56,6 +56,6 @@ Para tratar los datos he usado las siguientes herramientas:
     
     Puedes consultar el informe en: https://github.com/carmenwi/Google-Data-Analytics-Professional-Certificate/blob/main/Notebook_Informe_Python.ipynb
     
-- RStudio: He urilizado el software de R para generar ciertos gráficos que he incluido en el informe en Python. Para crear estos gráficos, he hecho uso de la interfaz gráfica de R Commander y de la librería Dplyr para el filtrado de datos.
+- RStudio: He utilizado el software de R para generar ciertos gráficos que he incluido en el informe en Python. Para crear estos gráficos, he hecho uso de la interfaz gráfica de R Commander y de la librería Dplyr para el filtrado de datos.
     
     Puedes consultar el informe en: https://github.com/carmenwi/Google-Data-Analytics-Professional-Certificate/blob/main/R_informe_markdown.pdf
