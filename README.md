@@ -1,5 +1,5 @@
 # Google-Data-Analytics-Professional-Certificate
-Proyecto final del curso Google Data Analytics Professional Certificate.
+Proyecto final de la serie de 8 cursos de Google Data Analytics Professional Certificate.
 
 ## 1. Descripción de la tarea empresarial
 
